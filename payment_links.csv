@@ -1,0 +1,3 @@
+id,Created (UTC),Active,Currency,Url,Allow Promotion Codes,Automatic Tax,Billing Address Collection,Shipping Address Collection Countries,Phone Number Collection,After Completion Type,Name
+plink_1L1BREISOxj70O5ewuEQTPNY,2022-05-19 15:38,true,usd,https://buy.stripe.com/test_4gw9DxgdTdTqe1WcMN,false,false,required,,false,hosted_confirmation,github.com/wrathchyld
+plink_1Kls0nISOxj70O5e0bJx7MP9,2022-04-07 09:52,true,usd,https://buy.stripe.com/test_dR63f9bXD3eM3nibII,false,false,auto,,false,hosted_confirmation,github.com/wrathchyld

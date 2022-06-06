@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//timeanddate.com//Meeting Planner
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20220519T000000Z
+DTEND:20220519T010000Z
+TRANSP:TRANSPARENT
+SUMMARY:Meeting Times
+DESCRIPTION:Suggested times to meet: \n\nSan Francisco: Wednesday, May 18,
+  2022 at 5:00 pm\nLondon: Thursday, May 19, 2022 at 1:00 am\nTokyo: Thurs
+ day, May 19, 2022 at 9:00 am\nNew York: Wednesday, May 18, 2022 at 8:00 p
+ m\n\n\nList generated using timeanddate.com's Meeting Planner\nhttp://www
+ .timeanddate.com/worldclock/meetingdetails.html?iso=20220519T0000&p1=224&
+ p2=136&p3=248&p4=179\n
+LOCATION:San Francisco, London, Tokyo, New York
+URL;VALUE=URI:http://www.timeanddate.com/worldclock/meetingdetails.html?is
+ o=20220519T0000&p1=224&p2=136&p3=248&p4=179
+UID:http://www.timeanddate.com/worldclock/meetingdetails.html?iso=20220519
+ T0000&p1=224&p2=136&p3=248&p4=179
+DTSTAMP:20220519T000000Z
+END:VEVENT
+END:VCALENDAR
