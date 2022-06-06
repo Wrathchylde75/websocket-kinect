@@ -1,2 +1,8 @@
 date,time,Timezone,format,text,favorite,date_utc,time_utc,notes,details
 09-14-2021,22:07:47,Eastern Standard Time,QR_CODE,3BfUNupEqQ9ag7bMV2eHQCNhmqVTwVFTMJ,0,09-14-2021,22:07:47,,
+git fetch origin
+
+git checkout git fetch origin
+
+git checkout API.V3
+}v.1
